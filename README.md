@@ -1,3 +1,3 @@
-- I'm octalide.
-- I like bourbon, chocolate cake, and coding!
-- You can reach me at `me@octalide.io`
+Backend-focused developer, currently making a zombie survival game called Zion.
+
+You can reach me at ethayng@gmail.com
